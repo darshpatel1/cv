@@ -1,51 +1,73 @@
-body{
+body {
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
 }
-.top{
+
+.top {
     background-color: #222831;
     position: relative;
     padding-top: 200px;
 }
-h1{
+
+h1 {
     font-family: 'Dancing Script', cursive;
     color: #EEEEEE;
     font-size: 4.5em;
 }
-.toph2{
+
+.toph2 {
     color: #EEEEEE;
 }
-h2{
+
+h2 {
     font-family: 'Hind Vadodara', sans-serif;
     font-size: 2.5em;
+    color: #5CB8E4;
 }
-.img1{
+
+h3 {
+    color: #5CB8E4;
+}
+
+.img1 {
     border-radius: 100%;
+    width: 200px;
 }
-hr{
-    border-top: dotted #696969 10px;
+
+.img2 {
+    width: 80%;
+}
+
+.img3 {
+    width: 40%;
+}
+
+hr {
+    border-top: dashed #696969 10px;
     border-bottom: none;
     border-left: none;
     border-right: none;
     width: 15%;
 
 }
-.bottom{
+
+.bottom {
     background-color: #00ADB5;
     padding: 15px;
 }
-.bottomtext{
+
+.bottomtext {
     font-family: 'Merriweather', serif;
 }
-.bottomhr{
-    border:solid #696969 5px ;
+
+.bottomhr {
+    border: solid #696969 5px;
     width: 100%;
     margin-bottom: 0px;
 }
+
 .btn {
-    -webkit-border-radius: 10;
-    -moz-border-radius: 10;
     border-radius: 10px;
     text-shadow: 1px 1px 3px #666666;
     font-family: 'Hind Vadodara', sans-serif;
@@ -55,4 +77,45 @@ hr{
     padding: 5px 20px 10px 20px;
     border: solid #607785 2px;
     text-decoration: none;
-  }
+}
+
+.h1Contact {
+    color: #00ADB5;
+}
+
+.row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+
+.column {
+    display: inline-block;
+
+}
+
+.left {
+    float: left;
+    width: 35%;
+}
+
+.right {
+    width: 65%;
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+dt {
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+}
+
+dd {
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
