@@ -131,12 +131,12 @@ a:link {
     color: #8abae0;
 }
 
-a:hover {
-    color: #FF8882;
-}
-
 a:visited {
     color: #E2007A;
+}
+
+a:hover {
+    color: #027efa;
 }
 
 .img5 {
