@@ -1,0 +1,154 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top {
+    background-color: #222831;
+    position: relative;
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
+
+.middle {
+    padding-top: 50px;
+    background-color: #EEEEEE;
+
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #EEEEEE;
+    font-size: 4.5em;
+}
+
+.toph2 {
+    color: #EEEEEE;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-family: 'Hind Vadodara', sans-serif;
+    font-size: 2.5em;
+    color: #5CB8E4;
+}
+
+h3 {
+    color: #5CB8E4;
+}
+
+.img1 {
+    border-radius: 100%;
+    width: 200px;
+}
+
+.img2 {
+    width: 70%;
+}
+
+.img3 {
+    width: 30%;
+}
+
+hr {
+    border-top: dashed #696969 5px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 50%;
+
+}
+
+.bottom {
+    background-color: #00ADB5;
+    padding: 15px;
+}
+
+
+.bottomhr {
+    border: solid #696969 5px;
+    width: 100%;
+    margin-bottom: 0px;
+
+}
+
+.btn {
+    border-radius: 10px;
+    font-family: 'Hind Vadodara', sans-serif;
+    font-size: 20px;
+    padding: 5px 20px 10px 20px;
+    border: solid #00ADB5 2px;
+}
+
+.h1Contact {
+    color: #00ADB5;
+}
+
+.row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+
+.column {
+    display: inline-block;
+
+}
+
+.left {
+    float: left;
+    width: 35%;
+}
+
+.right {
+    width: 65%;
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+dt {
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+}
+
+dd {
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
+
+.btnh3 {
+    margin-bottom: 50px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #8abae0;
+}
+
+a:visited {
+    color: #E2007A;
+}
+
+a:hover {
+    color: #027efa;
+}
+
+.img5 {
+    width: 30%;
+    position: absolute;
+    top: 30px;
+    left: 200px;
+}
+
+.img4 {
+    width: 20%;
+    position: absolute;
+    top: 30px;
+    right: 200px;
+}
